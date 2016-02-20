@@ -1,0 +1,39 @@
+header {
+	width: 100%;
+	padding: 60px;
+	text-align: center;
+	background: #9ce502;
+
+}
+header input {
+	width: 30%;
+	padding: 5px;
+}
+
+
+
+header button{padding: 5px; }
+
+body {
+	background: #9ce502;
+	color: white;
+}
+
+section {
+	font-size: 2em;
+	color: black;
+}
+ article {
+ 	text-align: center;
+ 	color: black;
+ 	font-size: 1,5em;
+ 	font-family: bold;
+}
+ footer {
+ 	text-align: center;	
+ 	color: black;
+ 	font-size: 1,5em;
+ 	font-family: bold;
+ 	
+ }
+
